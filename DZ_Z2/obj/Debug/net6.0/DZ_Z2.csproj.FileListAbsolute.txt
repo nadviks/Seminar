@@ -1,0 +1,15 @@
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.csproj.AssemblyReference.cache
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.AssemblyInfoInputs.cache
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.AssemblyInfo.cs
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.csproj.CoreCompileInputs.cache
+C:\GB\C#\Seminar\DZ_Z2\bin\Debug\net6.0\DZ_Z2.exe
+C:\GB\C#\Seminar\DZ_Z2\bin\Debug\net6.0\DZ_Z2.deps.json
+C:\GB\C#\Seminar\DZ_Z2\bin\Debug\net6.0\DZ_Z2.runtimeconfig.json
+C:\GB\C#\Seminar\DZ_Z2\bin\Debug\net6.0\DZ_Z2.dll
+C:\GB\C#\Seminar\DZ_Z2\bin\Debug\net6.0\DZ_Z2.pdb
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.dll
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\refint\DZ_Z2.dll
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.pdb
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\DZ_Z2.genruntimeconfig.cache
+C:\GB\C#\Seminar\DZ_Z2\obj\Debug\net6.0\ref\DZ_Z2.dll
