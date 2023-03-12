@@ -1,0 +1,15 @@
+C:\GB\C#\Seminar\DZ_Z8\bin\Debug\net6.0\DZ_Z8.exe
+C:\GB\C#\Seminar\DZ_Z8\bin\Debug\net6.0\DZ_Z8.deps.json
+C:\GB\C#\Seminar\DZ_Z8\bin\Debug\net6.0\DZ_Z8.runtimeconfig.json
+C:\GB\C#\Seminar\DZ_Z8\bin\Debug\net6.0\DZ_Z8.dll
+C:\GB\C#\Seminar\DZ_Z8\bin\Debug\net6.0\DZ_Z8.pdb
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.csproj.AssemblyReference.cache
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.AssemblyInfoInputs.cache
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.AssemblyInfo.cs
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.csproj.CoreCompileInputs.cache
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.dll
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\refint\DZ_Z8.dll
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.pdb
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\DZ_Z8.genruntimeconfig.cache
+C:\GB\C#\Seminar\DZ_Z8\obj\Debug\net6.0\ref\DZ_Z8.dll
